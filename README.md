@@ -1,5 +1,5 @@
 # Revenge RAT
-An easy-to-use RAT for Windows, with its own icon pack and additional tools. If you don`t mind, please leave a Star to this repo (thanks:D)
+An easy-to-use RAT for Windows, with its own icon pack and additional tools. If you don`t mind, please leave a ✨star✨ to this repo (thanks:D)
 ## Screenshots:
 ![image](https://github.com/user-attachments/assets/a14f4548-e9fd-4983-954b-06789610f73f)
 
